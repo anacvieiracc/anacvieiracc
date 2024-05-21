@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Java
-- 📫 How to reach me ... @anacvieiracc@gmail.com
+- 📫 How to reach me: anacvieiracc@gmail.com
 
 <!---
 anacvieiracc/anacvieiracc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
