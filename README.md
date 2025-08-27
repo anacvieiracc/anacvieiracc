@@ -1,7 +1,7 @@
 ### Hi, I'm Ana Carolina! :)
 
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, HTML, CSS and JavaScript
 - 📫 How to reach me: anacvieiracc@gmail.com
 
 <!---
