@@ -1,4 +1,4 @@
-### Hi, I'm Ana Carolina! :)
+## Hi, I'm Ana Carolina! :)
 
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Java, HTML, CSS and JavaScript
