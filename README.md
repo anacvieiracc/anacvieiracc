@@ -1,6 +1,6 @@
 ## Hi, I'm Ana Carolina! :)
 
-- 🌍 20-year-old Brazilian<br/>
+- 🌍 21-year-old Brazilian<br/>
 - 📚 Sixth-semester computer science student<br/>
 - 👀 I’m interested in web development, game development and software architecture<br/>
 
